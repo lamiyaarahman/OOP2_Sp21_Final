@@ -1,0 +1,12 @@
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\bin\Debug\InformationWinform.exe.config
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\bin\Debug\InformationWinform.exe
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\bin\Debug\InformationWinform.pdb
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.csprojResolveAssemblyReference.cache
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.Form1.resources
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.Properties.Resources.resources
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.csproj.GenerateResource.Cache
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.exe
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.pdb
+F:\C#\Final_C SHARP\Lab3\InformationWinform_Sln\InformationWinform\bin\Debug\InformationWinform.exe.config
+F:\C#\Final_C SHARP\Lab3\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.exe
+F:\C#\Final_C SHARP\Lab3\InformationWinform_Sln\InformationWinform\obj\Debug\InformationWinform.pdb
