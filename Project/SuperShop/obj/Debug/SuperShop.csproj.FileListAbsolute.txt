@@ -1,0 +1,13 @@
+F:\C#\Final_C SHARP\Project\SuperShop\bin\Debug\SuperShop.exe.config
+F:\C#\Final_C SHARP\Project\SuperShop\bin\Debug\SuperShop.exe
+F:\C#\Final_C SHARP\Project\SuperShop\bin\Debug\SuperShop.pdb
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.csprojAssemblyReference.cache
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.Form1.resources
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.cache
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.csproj.CoreCompileInputs.cache
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.exe
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.pdb
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.Deleteinfo.resources
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.register.resources
+F:\C#\Final_C SHARP\Project\SuperShop\obj\Debug\SuperShop.validation.resources
